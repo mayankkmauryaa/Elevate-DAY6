@@ -30,7 +30,6 @@ This is a modern, responsive, and beautifully styled contact form built using **
 
 🚀 [Live on GitHub Pages](https://mayankkmauryaa.github.io/elevate)
 
-> *(replace `your-username` with your GitHub username)*
 
 ---
 
